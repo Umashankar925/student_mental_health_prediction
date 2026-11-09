@@ -368,3 +368,13 @@ The predicted mental health score is an estimate generated from the available da
 GitHub: [Umashankar925](https://github.com/Umashankar925)
 
 Project Repository: [Student Mental Health Score Prediction](https://github.com/Umashankar925/student_mental_health_prediction)
+
+## Application Screenshots
+
+### 1. Input Form
+
+![Mental Wellbeing Predictor Input Form](screenshots/input.png)
+
+### 2. Prediction Result
+
+![Mental Wellbeing Predictor Prediction Result](screenshots/prediction.png)
